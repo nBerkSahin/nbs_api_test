@@ -10,7 +10,7 @@ This project was developed using Java, RestAssured, and TestNG to automatically 
 - Maven 3.6+
 - IntelliJ IDEA or a similar IDE
 ## Installation
-1. Clone the repository: `git clone https://github.com/nBerkSahin/ins_api_test.git`
+1. Clone the repository: `git clone https://github.com/nBerkSahin/nbs_api_test.git`
 2. Enter the project directory: `cd ins_api_test`
 3. Install the necessary dependencies: `mvn clean install`
 ## Running Tests
@@ -40,7 +40,7 @@ Bu proje, [Swagger Petstore](https://petstore.swagger.io/) API'sinin çeşitli u
 - Maven 3.6+
 - IntelliJ IDEA veya benzeri bir IDE
 ## Kurulum
-1. Depoyu klonlayın: `git clone https://github.com/nBerkSahin/ins_api_test.git`
+1. Depoyu klonlayın: `git clone https://github.com/nBerkSahin/nbs_api_test.git`
 2. Proje dizinine girin: `cd ins_api_test`
 3. Gerekli bağımlılıkları yükleyin: `mvn clean install`
 ## Testleri Çalıştırma
